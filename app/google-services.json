@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1095568869310",
+    "firebase_url": "https://memories-94c8c.firebaseio.com",
+    "project_id": "memories-94c8c",
+    "storage_bucket": "memories-94c8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095568869310:android:1bc25718c0468606",
+        "android_client_info": {
+          "package_name": "com.lekha.memories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095568869310-k2gcf1e9ueq0sdkm78080jcgkrl09nov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lekha.memories",
+            "certificate_hash": "542858a57697e109ab1761c2c0484666715eaae3"
+          }
+        },
+        {
+          "client_id": "1095568869310-4ou6oo9si617h9b7t9bl64mh3ikqkcpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyL1uWrz62ir0Tito-qQ-7KAbBBnJrO-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095568869310-4ou6oo9si617h9b7t9bl64mh3ikqkcpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
